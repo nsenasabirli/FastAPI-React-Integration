@@ -4,7 +4,7 @@ How to connect a FastAPI Backend to a React Frontend, we'll do this from scratch
 
 ![Ekran Resmi 2025-02-28 14 53 57](https://github.com/user-attachments/assets/8ca58d80-6e0e-456d-9a61-fb10b6187d78)
 
-#FastAPI Setup
+# FastAPI Setup
 
 Python 3.9+
 Setup
@@ -17,10 +17,10 @@ Windows: .\venv\Scripts\activate
 Install the dependencies from requirements.txt
 pip install -r requirements.txt
 
-#Run the API
+# Run the API
 python main.py
 
-#React Setup
+# React Setup
 
 Dependencies
 NodeJS
@@ -41,7 +41,7 @@ src/
     main.jsx
     api.js
 
-#Run the App
+# Run the App
 
 npm run dev
 
